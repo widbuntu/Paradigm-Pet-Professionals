@@ -1,0 +1,98 @@
+<svg width="936" height="792" viewBox="0.00 0.00 542.00 346.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="translate(4,342) scale(1)">
+<title>sitemap</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-342 538,-342 538,4 -4,4"/>
+<!-- Home -->
+<g id="node1" class="node">
+<title>Home</title>
+<path fill="white" stroke="#b2dfee" d="M301,-307.5C301,-307.5 335,-307.5 335,-307.5 340,-307.5 345,-312.5 345,-317.5 345,-317.5 345,-327.5 345,-327.5 345,-332.5 340,-337.5 335,-337.5 335,-337.5 301,-337.5 301,-337.5 296,-337.5 291,-332.5 291,-327.5 291,-327.5 291,-317.5 291,-317.5 291,-312.5 296,-307.5 301,-307.5"/>
+<polygon fill="white" stroke="none" points="300,-311.5 300,-333.5 335,-333.5 335,-311.5 300,-311.5"/>
+<polygon fill="black" stroke="none" points="302,-313.5 302,-331.5 333,-331.5 333,-313.5 302,-313.5"/>
+<text text-anchor="start" x="305.5" y="-319.5" font-family="Courier New" font-size="10.00" fill="white">Home</text>
+</g>
+<!-- CatPage -->
+<g id="node2" class="node">
+<title>CatPage</title>
+<path fill="white" stroke="#b2dfee" d="M12,-40.5C12,-40.5 136,-40.5 136,-40.5 142,-40.5 148,-46.5 148,-52.5 148,-52.5 148,-218.5 148,-218.5 148,-224.5 142,-230.5 136,-230.5 136,-230.5 12,-230.5 12,-230.5 6,-230.5 0,-224.5 0,-218.5 0,-218.5 0,-52.5 0,-52.5 0,-46.5 6,-40.5 12,-40.5"/>
+<polygon fill="white" stroke="none" points="8,-44.5 8,-226.5 140,-226.5 140,-44.5 8,-44.5"/>
+<polygon fill="black" stroke="none" points="10,-206.5 10,-224.5 138,-224.5 138,-206.5 10,-206.5"/>
+<text text-anchor="start" x="53" y="-212.5" font-family="Courier New" font-size="10.00" fill="white">CatPage</text>
+<text text-anchor="start" x="35.5" y="-192.5" font-family="Courier New" font-size="10.00">Exercise</text>
+<text text-anchor="start" x="35.5" y="-172.5" font-family="Courier New" font-size="10.00">Grooming</text>
+<text text-anchor="start" x="23.49" y="-152.5" font-family="Courier New" font-size="10.00">Vaccinations</text>
+<text text-anchor="start" x="62.99" y="-132.5" font-family="Courier New" font-size="10.00">CareAndDiet/</text>
+<text text-anchor="start" x="44.99" y="-112.5" font-family="Courier New" font-size="10.00">- Care0to4Weeks</text>
+<text text-anchor="start" x="20.98" y="-92.5" font-family="Courier New" font-size="10.00">- Care4WeeksTo1Year</text>
+<text text-anchor="start" x="20.98" y="-72.5" font-family="Courier New" font-size="10.00">- Care1YearTo7Years</text>
+<text text-anchor="start" x="14.98" y="-52.5" font-family="Courier New" font-size="10.00">- Care7YearsAndOlder</text>
+</g>
+<!-- Home&#45;&gt;CatPage -->
+<g id="edge1" class="edge">
+<title>Home-&gt;CatPage</title>
+<path fill="none" stroke="black" d="M290.52,-318.79C256.12,-314.16 196.89,-302.02 157,-271 145.69,-262.21 135.55,-251.41 126.56,-239.79"/>
+<polygon fill="black" stroke="black" points="129.56,-237.96 120.81,-231.98 123.92,-242.11 129.56,-237.96"/>
+</g>
+<!-- DogPage -->
+<g id="node3" class="node">
+<title>DogPage</title>
+<path fill="white" stroke="#b2dfee" d="M178,-40.5C178,-40.5 302,-40.5 302,-40.5 308,-40.5 314,-46.5 314,-52.5 314,-52.5 314,-218.5 314,-218.5 314,-224.5 308,-230.5 302,-230.5 302,-230.5 178,-230.5 178,-230.5 172,-230.5 166,-224.5 166,-218.5 166,-218.5 166,-52.5 166,-52.5 166,-46.5 172,-40.5 178,-40.5"/>
+<polygon fill="white" stroke="none" points="174,-44.5 174,-226.5 306,-226.5 306,-44.5 174,-44.5"/>
+<polygon fill="black" stroke="none" points="176,-206.5 176,-224.5 304,-224.5 304,-206.5 176,-206.5"/>
+<text text-anchor="start" x="219" y="-212.5" font-family="Courier New" font-size="10.00" fill="white">DogPage</text>
+<text text-anchor="start" x="201.5" y="-192.5" font-family="Courier New" font-size="10.00">Exercise</text>
+<text text-anchor="start" x="201.5" y="-172.5" font-family="Courier New" font-size="10.00">Grooming</text>
+<text text-anchor="start" x="189.49" y="-152.5" font-family="Courier New" font-size="10.00">Vaccinations</text>
+<text text-anchor="start" x="228.99" y="-132.5" font-family="Courier New" font-size="10.00">CareAndDiet/</text>
+<text text-anchor="start" x="204.98" y="-112.5" font-family="Courier New" font-size="10.00">- Care0to2Months</text>
+<text text-anchor="start" x="204.98" y="-92.5" font-family="Courier New" font-size="10.00">- Care3to6Months</text>
+<text text-anchor="start" x="180.98" y="-72.5" font-family="Courier New" font-size="10.00">- Care6MonthsTo1Year</text>
+<text text-anchor="start" x="186.98" y="-52.5" font-family="Courier New" font-size="10.00">- Care1YearAndOlder</text>
+</g>
+<!-- Home&#45;&gt;DogPage -->
+<g id="edge2" class="edge">
+<title>Home-&gt;DogPage</title>
+<path fill="none" stroke="black" d="M312.01,-307.29C305.71,-292.35 295.19,-267.41 284.11,-241.13"/>
+<polygon fill="black" stroke="black" points="287.38,-239.87 280.27,-232.01 280.93,-242.59 287.38,-239.87"/>
+</g>
+<!-- SmallAnimalPage -->
+<g id="node4" class="node">
+<title>SmallAnimalPage</title>
+<path fill="white" stroke="#b2dfee" d="M344,-0.5C344,-0.5 450,-0.5 450,-0.5 456,-0.5 462,-6.5 462,-12.5 462,-12.5 462,-258.5 462,-258.5 462,-264.5 456,-270.5 450,-270.5 450,-270.5 344,-270.5 344,-270.5 338,-270.5 332,-264.5 332,-258.5 332,-258.5 332,-12.5 332,-12.5 332,-6.5 338,-0.5 344,-0.5"/>
+<polygon fill="white" stroke="none" points="340,-4.5 340,-266.5 454,-266.5 454,-4.5 340,-4.5"/>
+<polygon fill="black" stroke="none" points="342,-246.5 342,-264.5 452,-264.5 452,-246.5 342,-246.5"/>
+<text text-anchor="start" x="351.99" y="-252.5" font-family="Courier New" font-size="10.00" fill="white">SmallAnimalPage</text>
+<text text-anchor="start" x="373" y="-232.5" font-family="Courier New" font-size="10.00">Housing/</text>
+<text text-anchor="start" x="406.99" y="-212.5" font-family="Courier New" font-size="10.00">- Cages</text>
+<text text-anchor="start" x="394.99" y="-192.5" font-family="Courier New" font-size="10.00">- Bedding</text>
+<text text-anchor="start" x="370.99" y="-172.5" font-family="Courier New" font-size="10.00">- Accessories</text>
+<text text-anchor="start" x="348.99" y="-152.5" font-family="Courier New" font-size="10.00">SpeciesSpecific/</text>
+<text text-anchor="start" x="388.99" y="-132.5" font-family="Courier New" font-size="10.00">- Hamsters</text>
+<text text-anchor="start" x="376.99" y="-112.5" font-family="Courier New" font-size="10.00">- GuineaPigs</text>
+<text text-anchor="start" x="394.99" y="-92.5" font-family="Courier New" font-size="10.00">- Rabbits</text>
+<text text-anchor="start" x="363.99" y="-72.5" font-family="Courier New" font-size="10.00">Enrichment/</text>
+<text text-anchor="start" x="346.98" y="-52.5" font-family="Courier New" font-size="10.00">- ExerciseOptions</text>
+<text text-anchor="start" x="412.99" y="-32.5" font-family="Courier New" font-size="10.00">- Toys</text>
+<text text-anchor="start" x="358.5" y="-12.5" font-family="Courier New" font-size="10.00">Cleaning</text>
+</g>
+<!-- Home&#45;&gt;SmallAnimalPage -->
+<g id="edge3" class="edge">
+<title>Home-&gt;SmallAnimalPage</title>
+<path fill="none" stroke="black" d="M324.07,-307.29C327.02,-300.37 330.9,-291.29 335.32,-280.93"/>
+<polygon fill="black" stroke="black" points="338.42,-282.59 339.13,-272.02 331.98,-279.84 338.42,-282.59"/>
+</g>
+<!-- FAQs -->
+<g id="node5" class="node">
+<title>FAQs</title>
+<path fill="white" stroke="#b2dfee" d="M490,-120.5C490,-120.5 524,-120.5 524,-120.5 529,-120.5 534,-125.5 534,-130.5 534,-130.5 534,-140.5 534,-140.5 534,-145.5 529,-150.5 524,-150.5 524,-150.5 490,-150.5 490,-150.5 485,-150.5 480,-145.5 480,-140.5 480,-140.5 480,-130.5 480,-130.5 480,-125.5 485,-120.5 490,-120.5"/>
+<polygon fill="white" stroke="none" points="489,-124.5 489,-146.5 524,-146.5 524,-124.5 489,-124.5"/>
+<polygon fill="black" stroke="none" points="491,-126.5 491,-144.5 522,-144.5 522,-126.5 491,-126.5"/>
+<text text-anchor="start" x="494.5" y="-132.5" font-family="Courier New" font-size="10.00" fill="white">FAQs</text>
+</g>
+<!-- Home&#45;&gt;FAQs -->
+<g id="edge4" class="edge">
+<title>Home-&gt;FAQs</title>
+<path fill="none" stroke="black" d="M345.34,-320.11C379.58,-316.88 437.78,-306.18 471,-271 499.15,-241.19 505.8,-191.83 507.09,-161.92"/>
+<polygon fill="black" stroke="black" points="510.58,-162.36 507.32,-152.28 503.58,-162.19 510.58,-162.36"/>
+</g>
+</g>
+</svg>
