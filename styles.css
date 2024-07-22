@@ -24,6 +24,11 @@ header {
     justify-content: space-between;
 }
 
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #007bff;
+  }
+
 .navbar-logo {
     max-height: 50px;
     margin-left: 20px;

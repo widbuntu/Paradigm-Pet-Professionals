@@ -27,7 +27,7 @@
                         <a class="nav-link" href="catPage.html" id="catDropdown">Cat Owners</a>
                         <a class="nav-link" href="dogPage.html" id="catDropdown">Dog Owners</a>
                         <a class="nav-link" href="smallAnimalPage.html" id="catDropdown">Small Animal Owners</a>
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link active" href="contact.html">Contact</a>
                     </ul>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor"
                         class="bi bi-twitter-x" viewBox="0 0 16 16">
@@ -53,6 +53,12 @@
 
     <main style="padding: 100px;">
         <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                  <li class="breadcrumb-item active" aria-current="page">Contact</li>
+                </ol>
+              </nav>
             <h2>Contact</h2>
             <form action="submit_form.php" method="post">
                 <div class="mb-3">
